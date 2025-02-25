@@ -1,7 +1,0 @@
-confluent-kafka
-pandas
-joblib
-streamlit
-matplotlib
-numpy
-scikit-learn
